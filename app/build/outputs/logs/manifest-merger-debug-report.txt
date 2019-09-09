@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/202ea20d3c67bb386f9704ef1d2c1f10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hogan/.gradle/caches/transforms-2/files-2.1/eeda03d66246e59a57d699c6eb8b12a4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/92b33413f45394ac768b993884fb4852/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/0c319e855ea51047faaa9c2d44e5e558/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/17a7b4eb95b6a70380b1938de31728e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/c318e36a9815e4a649eaa679461fdaa3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/7267c5f98b8d3700c68e75769f5897fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/cef1b1dcd1fd88b735846c17b9cc50a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/079a8c7eef736a926dc31f8c15f25ba0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/af91dff5a55690ab631d95bec5dc053a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/089f64952c392dcfb679bff7443c47d6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/d14f5e2defbee865426c7f6123b951ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/e5596efce8560d6c325e84701f16c4e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/28f4546d2ffc59e43bd945a22652d010/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/850dd9ed8961286b13f86bf1d4a11eed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/6c4f08af1e8214b1a4d9cda2f579e90e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/a5687614a0f040acafd86bd73a0564a7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/918b013c42ea4c7c73ed3c8a2969b758/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/cc98d8c733e61f1d5984e77bd635a6cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/d6b900c25fd077174edc38f38022d9c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/87cdeda4f8303df0efcb23236f603c68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/a531124518e0dbe28dc34514e212dfdf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/5921979aadd10ae112590e0e364b2728/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/908d52d7756db7b795a105b4390076fb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/e3102cd7a37cbaffb910067f1853f3bb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/3baa7ef3d3924091f873b244819dda98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/52318da0c0fbf04a322f8fd53d59f53a/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hogan/.gradle/caches/transforms-2/files-2.1/eeda03d66246e59a57d699c6eb8b12a4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hogan/.gradle/caches/transforms-2/files-2.1/eeda03d66246e59a57d699c6eb8b12a4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/6c4f08af1e8214b1a4d9cda2f579e90e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/6c4f08af1e8214b1a4d9cda2f579e90e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/a5687614a0f040acafd86bd73a0564a7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/a5687614a0f040acafd86bd73a0564a7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/6c4f08af1e8214b1a4d9cda2f579e90e/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.justjava.MainActivity
+ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/202ea20d3c67bb386f9704ef1d2c1f10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/202ea20d3c67bb386f9704ef1d2c1f10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hogan/.gradle/caches/transforms-2/files-2.1/eeda03d66246e59a57d699c6eb8b12a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/hogan/.gradle/caches/transforms-2/files-2.1/eeda03d66246e59a57d699c6eb8b12a4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/92b33413f45394ac768b993884fb4852/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/92b33413f45394ac768b993884fb4852/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/0c319e855ea51047faaa9c2d44e5e558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/0c319e855ea51047faaa9c2d44e5e558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/17a7b4eb95b6a70380b1938de31728e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/17a7b4eb95b6a70380b1938de31728e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/c318e36a9815e4a649eaa679461fdaa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/c318e36a9815e4a649eaa679461fdaa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/7267c5f98b8d3700c68e75769f5897fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/7267c5f98b8d3700c68e75769f5897fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/cef1b1dcd1fd88b735846c17b9cc50a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/cef1b1dcd1fd88b735846c17b9cc50a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/079a8c7eef736a926dc31f8c15f25ba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/079a8c7eef736a926dc31f8c15f25ba0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/af91dff5a55690ab631d95bec5dc053a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/af91dff5a55690ab631d95bec5dc053a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/089f64952c392dcfb679bff7443c47d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/089f64952c392dcfb679bff7443c47d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/d14f5e2defbee865426c7f6123b951ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/d14f5e2defbee865426c7f6123b951ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/e5596efce8560d6c325e84701f16c4e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/e5596efce8560d6c325e84701f16c4e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/28f4546d2ffc59e43bd945a22652d010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/28f4546d2ffc59e43bd945a22652d010/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/850dd9ed8961286b13f86bf1d4a11eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/850dd9ed8961286b13f86bf1d4a11eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/6c4f08af1e8214b1a4d9cda2f579e90e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/6c4f08af1e8214b1a4d9cda2f579e90e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/a5687614a0f040acafd86bd73a0564a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/a5687614a0f040acafd86bd73a0564a7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/918b013c42ea4c7c73ed3c8a2969b758/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/918b013c42ea4c7c73ed3c8a2969b758/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/cc98d8c733e61f1d5984e77bd635a6cb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/cc98d8c733e61f1d5984e77bd635a6cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/d6b900c25fd077174edc38f38022d9c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/d6b900c25fd077174edc38f38022d9c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/87cdeda4f8303df0efcb23236f603c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/87cdeda4f8303df0efcb23236f603c68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/a531124518e0dbe28dc34514e212dfdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/a531124518e0dbe28dc34514e212dfdf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/5921979aadd10ae112590e0e364b2728/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/5921979aadd10ae112590e0e364b2728/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/908d52d7756db7b795a105b4390076fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/908d52d7756db7b795a105b4390076fb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/e3102cd7a37cbaffb910067f1853f3bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/e3102cd7a37cbaffb910067f1853f3bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/3baa7ef3d3924091f873b244819dda98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/hogan/.gradle/caches/transforms-2/files-2.1/3baa7ef3d3924091f873b244819dda98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/52318da0c0fbf04a322f8fd53d59f53a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/hogan/.gradle/caches/transforms-2/files-2.1/52318da0c0fbf04a322f8fd53d59f53a/AndroidManifest.xml:20:5-44
+INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+		ADDED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml
+		INJECTED from /home/hogan/Desktop/Android_APP/Udacity/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Sat Jul 27 10:14:33 PDT 2019
+base.0=/home/hogan/Desktop/Android_APP/Udacity/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
